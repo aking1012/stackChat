@@ -1,0 +1,30 @@
+Package: python-entrypoint2
+Source: entrypoint2
+Version: 0.0.5-1
+Architecture: all
+Maintainer: Andrew King (No comment) <aking1012.com@gmail.com>
+Installed-Size: 94
+Depends: python2.7, python (>= 2.7.1-0ubuntu2), python (<< 2.8), python-decorator, python-argparse
+Section: python
+Priority: optional
+Description: easy to use command-line interface for python modules, fork
+ entrypoint2 is an easy to use command-line interface for python modules, fork of `entrypoint <http://pypi.python.org/pypi/entrypoint/>`_
+ .
+ .
+ Links:
+  * home: https://github.com/ponty/entrypoint2
+  * documentation: http://ponty.github.com/entrypoint2
+ .
+ .
+ Background
+ ============
+ .
+ There are tons of command-line handling modules
+ but none of them can generate a CLI interface
+ for a very simple function like this
+ without duplicating the existing code and
+ without making the function from other modules unusable::
+ .
+ 	def add(one, two=4, three=False):
+ 		''' description
+ 		one: description

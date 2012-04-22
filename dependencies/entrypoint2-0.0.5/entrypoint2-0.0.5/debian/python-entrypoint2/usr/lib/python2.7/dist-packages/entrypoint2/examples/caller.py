@@ -1,0 +1,1 @@
+../../../../../share/pyshared/entrypoint2/examples/caller.py

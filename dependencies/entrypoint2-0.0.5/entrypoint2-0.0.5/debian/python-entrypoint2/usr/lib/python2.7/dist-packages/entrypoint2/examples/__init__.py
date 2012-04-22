@@ -1,0 +1,1 @@
+../../../../../share/pyshared/entrypoint2/examples/__init__.py

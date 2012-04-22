@@ -1,0 +1,57 @@
+Description: Corrected changelog
+ TODO: Put a short summary on the line above and replace this paragraph
+ with a longer explanation of this change. Complete the meta-information
+ with other relevant fields (see below for details). To make it easier, the
+ information below has been extracted from the changelog. Adjust it or drop
+ it.
+ .
+ selenium (2.21.2-1) precise; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Author: Andrew King (No comment) <aking1012.com@gmail.com>
+
+---
+The information above should follow the Patch Tagging Guidelines, please
+checkout http://dep.debian.net/deps/dep3/ to learn about the format. Here
+are templates for supplementary fields that you might want to add:
+
+Origin: <vendor|upstream|other>, <url of original patch>
+Bug: <url in upstream bugtracker>
+Bug-Debian: http://bugs.debian.org/<bugnumber>
+Bug-Ubuntu: https://launchpad.net/bugs/<bugnumber>
+Forwarded: <no|not-needed|url proving that it has been forwarded>
+Reviewed-By: <name and email of someone who approved the patch>
+Last-Update: <YYYY-MM-DD>
+
+--- selenium-2.21.2.orig/selenium.egg-info/PKG-INFO
++++ selenium-2.21.2/selenium.egg-info/PKG-INFO
+@@ -1,4 +1,4 @@
+-Metadata-Version: 1.0
++Metadata-Version: 1.1
+ Name: selenium
+ Version: 2.21.2
+ Summary: Python bindings for Selenium
+--- selenium-2.21.2.orig/selenium.egg-info/SOURCES.txt
++++ selenium-2.21.2/selenium.egg-info/SOURCES.txt
+@@ -1,20 +1,6 @@
+-.git-fixfiles
+-.gitignore
+-.svn-authors
+-COPYING
+-CREDITS.txt
+ MANIFEST.in
+-README.md
+-Rakefile
+-WebDriver.sln
+-WebDriver.snk
+-go
+-go.bat
+-properties.yml
+-selenium.eml
+-selenium.iml
++setup.cfg
+ setup.py
+-wire.py
+ py/CHANGES
+ py/README
+ py/selenium/__init__.py

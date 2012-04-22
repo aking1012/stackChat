@@ -1,0 +1,11 @@
+a8762b254476723c27112b5e4c9281f9  usr/share/doc/python-easyprocess/changelog.Debian.gz
+14e856667ac83e673d4cec3b6c65a674  usr/share/pyshared/EasyProcess-0.1.4.egg-info/PKG-INFO
+fa40041550f780ea2a3e1f5ddca249ce  usr/share/pyshared/EasyProcess-0.1.4.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/EasyProcess-0.1.4.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/EasyProcess-0.1.4.egg-info/not-zip-safe
+d0002a47567d045be6e1f5d08d8c20e7  usr/share/pyshared/EasyProcess-0.1.4.egg-info/top_level.txt
+24b6d04e2d9d632072de780617a7589e  usr/share/pyshared/easyprocess/__init__.py
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/easyprocess/examples/__init__.py
+b91b42ab83529071e425bf292b1924e1  usr/share/pyshared/easyprocess/examples/log.py
+2c44263e13344c212ba42a5b339fe9fe  usr/share/pyshared/easyprocess/examples/ver.py
+ee242590e5c2dda47e112755be8acbcf  usr/share/pyshared/easyprocess/unicodeutil.py

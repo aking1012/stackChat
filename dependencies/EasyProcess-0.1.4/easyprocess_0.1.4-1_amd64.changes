@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sat, 21 Apr 2012 15:20:29 -0400
+Source: easyprocess
+Binary: python-easyprocess
+Architecture: source all
+Version: 0.1.4-1
+Distribution: precise
+Urgency: low
+Maintainer: Andrew King (No comment) <aking1012.com@gmail.com>
+Changed-By: Andrew King (No comment) <aking1012.com@gmail.com>
+Description: 
+ python-easyprocess - Easy to use python subprocess interface.
+Changes: 
+ easyprocess (0.1.4-1) precise; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Checksums-Sha1: 
+ 0402d225d2ca84c5e7289fea9282321ad51e4d26 1423 easyprocess_0.1.4-1.dsc
+ a82dc6e6765ee7c518f96f821b052025b4c213a8 13232 easyprocess_0.1.4.orig.tar.gz
+ b0b5505f6fd4876f6d6feb07a23a14a0cbc734b1 1001 easyprocess_0.1.4-1.debian.tar.gz
+ 27047734f751c544f606148e7f73d68159a645d9 7960 python-easyprocess_0.1.4-1_all.deb
+Checksums-Sha256: 
+ c975f5588607f65e93c64594ca1af0fe6619c71b99124d2277a68a53ef4958d3 1423 easyprocess_0.1.4-1.dsc
+ dad3fbd611157991d283ed6f1523bf487fc455e0aac71a3f7411a861ce6a9f3b 13232 easyprocess_0.1.4.orig.tar.gz
+ 4e3421df09947b446b2cb50d87e54221691e6dc688c43850936ea70c215b663f 1001 easyprocess_0.1.4-1.debian.tar.gz
+ 4d8803ae96373161caa60a996c5f7468f344d10fb320c5349a3432aff955a905 7960 python-easyprocess_0.1.4-1_all.deb
+Files: 
+ 3cc258f442e0e372a1cdc92bc69cf8ab 1423 python optional easyprocess_0.1.4-1.dsc
+ 90f4a40674fbfed8bee041fce2387bf9 13232 python optional easyprocess_0.1.4.orig.tar.gz
+ ee63be2e1b05c7c269dc8c36ac9b00f7 1001 python optional easyprocess_0.1.4-1.debian.tar.gz
+ d9aba35365f9665ee01b0890f75e26ba 7960 python optional python-easyprocess_0.1.4-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJPk+eiAAoJEODCXbnlo0CHWSEH/1/DcTAJGwkworqqKc/lXqMa
+G8XJ6sk8aQT9V9MbEhMyWEsXlIbkJR4B2jtuNaqGzD5f5tRkS/B4vP1AOFu266Re
+5xmbaEsOuDua/z1ihiTqsbnuWOY5NmPZJMA4Xh/t/rQpR7941ENFUSAMT45NFx4i
+Q5XjhdLvQJAT/jWQ5SWCsyAgoVFqyAZ1uoAvbihyGFYUX/172RFFF0vjw+glL5th
+ZrpO+MzABCrli5XJl+rZqDqqFATas8Xjq6XZ6Zz3vnRk+nzwl93wRJOTGymlwcpG
+eydgjYnuF22Y4gC3vQG/VIt2uG055tgYb866df4dcVF87caLUi8vOX806jpt1+k=
+=sZgD
+-----END PGP SIGNATURE-----

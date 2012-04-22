@@ -1,0 +1,11 @@
+87b667a1d0e4d7e419889ea0b66a512a  usr/share/doc/python-entrypoint2/changelog.Debian.gz
+f59079ddffee6bf20cce2d3c688c8e22  usr/share/pyshared/entrypoint2-0.0.5.egg-info/PKG-INFO
+f5a2f2b1bda8592543a168ba12ad3e4c  usr/share/pyshared/entrypoint2-0.0.5.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/entrypoint2-0.0.5.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/entrypoint2-0.0.5.egg-info/not-zip-safe
+5198d411de60ab3f61bf480ede0119e5  usr/share/pyshared/entrypoint2-0.0.5.egg-info/requires.txt
+61d19568d4b20be33390f2573db6598c  usr/share/pyshared/entrypoint2-0.0.5.egg-info/top_level.txt
+8bca0e816dd31d6d535feb26633c36d1  usr/share/pyshared/entrypoint2/__init__.py
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/entrypoint2/examples/__init__.py
+404ab11ba86deec598390a632e98fb28  usr/share/pyshared/entrypoint2/examples/caller.py
+5140a86a1bb6e451f3077926e6a83d2d  usr/share/pyshared/entrypoint2/examples/hello.py

@@ -1,0 +1,401 @@
+0.5794525037684785
+load older messages load to my last message full transcript highlights
+
+Marco Ceppi
+Marco Ceppi
+16:02
+It should be default in 12.04 as well
+ 
+jrg
+jrg
+@MarcoCeppi No, they didn't.
+ 
+Marco Ceppi
+Marco Ceppi
+is not on 12.04
+ 
+jrg
+jrg
+(as I test on my 12.04 box)
+ 
+Jorge Castro
+Jorge Castro
+it's inherited from Debian
+ 
+Marco Ceppi
+Marco Ceppi
+#blamedebian
+2
+ 
+Jorge Castro
+Jorge Castro
+16:03
+/me thinks it sucks
+ 
+jrg
+jrg
+@aking1012 Unity like a fungus... interesting. I hated it in 10.10. Netbook + unity = angry me because I couldn't hide the launcher back then.
+then 11.04 came along and i was OMG ITS ALPHA BUT ITS SOOOO AWESOME.
+ 
+aking1012
+aking1012
+11.9k
+Menu system was hard coded in my habits, and a right-click application menu on the desktop was also something I was used to. Yes I admit I'm change averse
+@jrg I think we covered this in one of my questions here on AU?
+4
+[Ask Ubuntu]
+Q: Does anyone have any idea if/when Ubuntu is going to switch the default ruby install from 1.8 train to the 1.9 train?
+
+aking1012I'm kind of hoping it's not going to be a python 2.7/3.0 thing, but I thought I might find someone "in the know".
+default ruby
+ 
+jrg
+jrg
+@aking1012 we did, its because ruby was at 1.9.1 for so long that everyone used it, and it didn't get swapped because of library compatibility.
+ 
+aking1012
+aking1012
+Yep
+ 
+jrg
+jrg
+Which brings us back to the following: If you're doing ruby stuff, really, debian based distros suck for package managed ruby. Go use Fedora/a rpm distro, since they don't try to circumvent gem with yum like debian tries to with apt.
+ 
+Jorge Castro
+Jorge Castro
+16:08
+CHARMS
+ 
+jrg
+jrg
+can't use charms on a desktop haha
+ 
+Jorge Castro
+Jorge Castro
+or you could just not use the packaged ruby like most people do instead of switching OSes
+sure you can. :)
+ 
+jrg
+jrg
+Well, yes I do that. rvm FTW.
+ 
+Marco Ceppi
+Marco Ceppi
+Y NO 1 PPA?
+ 
+aking1012
+aking1012
+11.9k
+The new solution to all your packaging woes:
+user image
+ 
+Marco Ceppi
+Marco Ceppi
+16:09
+@JorgeCastro how did you know that guys was using Ubuntu, did he just have his laptop out?
+ 
+Jorge Castro
+Jorge Castro
+24.8k
+yeah, I was walking by to the bathroom
+and I saw the background from like a mile away
+@MarcoCeppi is there no way to pull all the charms at once with normal bzr?
+bzr branch lp:charms doesn't work
+now that I use sublime I was thinking of pulling all of the charms and doing all the READMEs at once
+ 
+Marco Ceppi
+Marco Ceppi
+You can use charm get all
+ 
+Jorge Castro
+Jorge Castro
+then how would I push back?
+ 
+Questions Feed
+Questions Feed
+16:25
+Can you answer this? Comparison: Octave, Spyder, Freemat, Scilab - as alternatives for ... askubuntu.com/questions/80164/… #softwarerecommendation
+Tweeted by StackUbuntu on April 18, 2012 at 8:08 PM
+ 
+Marco Ceppi
+Marco Ceppi
+@JorgeCastro Each charm maintains it's own .bzr directory, IIRC
+So you'll need to commit each and push, but you could script that pretty quickly with bash
+ 
+Jorge Castro
+Jorge Castro
+@MarcoCeppi try sublime
+it's so awesome
+you can just open a directory
+ 
+Marco Ceppi
+Marco Ceppi
+Never heard of it
+ 
+Jorge Castro
+Jorge Castro
+and switch beween each charm file, very very very quickly
+ 
+Marco Ceppi
+Marco Ceppi
+Oh, this is that one you have to pay for
+that everyone raves about
+ 
+Jorge Castro
+Jorge Castro
+24.8k
+16:31
+it's wicked
+yeah but it doesn't force you to pay
+sublimetext.com
+webup8te has a ppa.
+I might buy it, it's that awesome.
+If it was in USC I would have bought it after 10 minutes of playing with it.
+ 
+jrg
+jrg
+Yeah, same here. One of these days I'll buy it. But right now, the free trial version that nags you is sufficient.
+ 
+Jorge Castro
+Jorge Castro
+mine hasn't nagged me
+I found an octopress plugin for it
+but it's not that awesome
+ 
+jrg
+jrg
+it nags you every like, 10 or 20 saves iirc.
+there is a twitter plugin, but i haven't been able to get it to work on ubuntu
+ 
+Jorge Castro
+Jorge Castro
+I sent them a mail asking them to submit it
+it's for pay, they wouldn't even have to package it, they would just have canonical do it
+it's win/win imo!
+ 
+jrg
+jrg
+Octavian suggested it on their uservoice page a few months ago.
+ 
+Jorge Castro
+Jorge Castro
+16:35
+yeah I upboated that
+ 
+Jorge Castro
+Jorge Castro
+24.8k
+16:50
+1
+[Ask Ubuntu]
+Q: What is the keyboard shortcut to minimise a window to launcher in unity 12.04?
+
+EwanIn 10.10 that I was using before 12.04 you could use alt+F9 to minimise a window to the task bar. In 12.04 meta+ctrl+ cursor up down maximises and unmaximises a window. If you have a numeric keypad you can use ctrl+alt+0 to minimise to launcher. On my netbook I don't have a numeric keypad and the...
+unity shortcut-keys 12.04
+it's this just ctrl-alt-d?
+ 
+jrg
+jrg
+@JorgeCastro it does that for everything.
+Sweet, time to implode my 12.04 install so I can properly test the 11.10 > 12.04 Wubi setup
+I've never been happy to delete Ubuntu. This is a weird feeling. :p
+ 
+Jorge Castro
+Jorge Castro
+oh, an individual window?
+ 
+jrg
+jrg
+I think he's asking about an individual window
+ 
+Jorge Castro
+Jorge Castro
+24.8k
+ugh, editing sucks on plane wifi
+enough to load things, but not enough to be fun or quick.
+hmmm, I am trying to find a way to answer that meta question about the question wording without sounding like a jerk
+it's like, people don't read any of the directions, I don't think changing a word or two will help in that regard.
+ 
+Marco Ceppi
+Marco Ceppi
+@JorgeCastro it's a duplicate
+we've had this discussion before, multiple times
+I just haven't spent much time hunting down the old convos
+ 
+jrg
+jrg
+16:59
+There is a good XKCD about this topic.
+ 
+jrg
+jrg
+17:16
+@JorgeCastro I'm just going to be blunt. :p
+ 
+Marco Ceppi
+Marco Ceppi
+17:35
+@jrg have a few mins to help me with some ruby stuff?
+ 
+jrg
+jrg
+@MarcoCeppi a few, yeah.
+whats up?
+ 
+Marco Ceppi
+Marco Ceppi
+Let me find a room we can barge in on
+ 
+jrg
+jrg
+Ask Ubuntu Screen me up, Scottie
+ 
+htorque
+htorque
+20.2k
+18:20
+@JorgeCastro he's probably on a different chat room posting "omg, there's jorge castro on my plane!"
+i know i would. :-P
+what a day! there were like 20 unity merges!
+going to be one hack of a SRU
+ 
+John McKean Pruitt
+John McKean Pruitt
+19:14
+I'm at a buddies house and the internet doesn't seem to like me. My speed is topping out around 1.0 KiB/s with bursts of 70.0 KiB/s
+ 
+aking1012
+aking1012
+Is it just me or is the juju documentation page highly reminiscent of the python-docs theme?
+Note that this is not a complaint...it just amused me
+ 
+TheX
+TheX
+Does your buddy even like you?
+ 
+Questions Feed
+Questions Feed
+Can you answer this? Magical Unchanging Flash Storage askubuntu.com/questions/… #usbdrive
+Tweeted by StackUbuntu on April 18, 2012 at 11:08 PM
+ 
+John McKean Pruitt
+John McKean Pruitt
+68
+19:30
+He does! very much so
+Now I'm direct in with an Ethernet
+but why would the wireless be coming in so slow?
+They don't have problem on their fancy macs
+There doesn't seem to be any documentation that is helpful
+ 
+John McKean Pruitt
+John McKean Pruitt
+19:53
+did i miss anything?
+ 
+jrg
+jrg
+20:26
+@JohnMcKeanPruitt Are you far away from the wifi?
+because that might do it
+ 
+ 
+2 hours later…
+ 
+jokerdino
+jokerdino
+22:30
+@JorgeCastro some of the comments were for the older answer, which i have since revised. i have updated the answer as well.
+@jorgecastro it effectively is the same answer as that of Bruno, but without instructions on how to reset it.
+ 
+Questions Feed
+Questions Feed
+Can you answer this? How to allow key functions while desktop locked askubuntu.com/questions/… #shortcutkeys
+Tweeted by StackUbuntu on April 19, 2012 at 2:08 AM
+ 
+lazyPower
+lazyPower
+22:49
+This charm is making me lose hair
+ 
+aking1012
+aking1012
+23:33
+@lazyPower You seem to be interested in the charm stuff. Are you doing it on a single user computer or does it have to be a eucalyptus/UEC instance?
+ 
+lazyPower
+lazyPower
+i'm using AWS to debug this charm
+i think i borked something in my metadata - its not giving me debug output on deployment. so i have no idea if its actually doing what it should be doing. my juju-log statements aren't hitting the debug logs at any rate.
+ 
+aking1012
+aking1012
+23:55
+:( hope you get it sorted. I'm doing a bit of light reading on juju and local private clouds with eucalyptus, so I can practice for free.
+ 
+lazyPower
+lazyPower
+aws comes with a free year of t1 micro service -- if you want to get your feet wet with amazon.
+Ah, just looked up Eucalyptus - thats cool.
+bridging the cloud and your personal network
+ 
+aking1012
+aking1012
+Yeah, it would be epic for educational institutions. A cheap way to teach on cloud. It's my understanding it's part of what UEC is built from as well, so the transition would be easy-ish.
+ 
+lazyPower
+lazyPower
+0:25
+@aking1012 woot! debug log is logging up a storm. We have successfully verified the install hook is doing its thing.
+  
+ 
+aking1012
+aking1012
+gj. now to find the problem ;)
+ 
+lazyPower
+lazyPower
+oh at this point i'm just testing my alpha-state charm.
+(removed)
+ 
+aking1012
+	
+
+		Ask Ubuntu
+help | faq | legal
+all rooms Ask Ubuntu site rooms
+ 
+Ask Ubuntu General Room
+General discussion around Ubuntu & Ask Ubuntu and official Ubuntu derivatives.
+leave (all) | Ask Ubuntu room▼ | info
+
+    lazyPower
+    aking1012
+    Marco Ceppi
+    Jorge Castro
+    Bruno Pereira
+    ajmitch
+    Oli
+    DoR
+    Jacob
+    Zypher
+    Iszi
+
+not the room you are looking for?
+
+
+There are other rooms, with 58 users currently talking in 28 rooms.
+starred / show all 4469
+
+    2 #blamedebian - 8h ago by Marco Ceppi
+    2 yes, there should be an option to "do what I want stop looking at what I do or where I am from" - 13h ago by Luis Alvarado
+    2 "The computer is slow" - "Format it" "I think my computer has virus." - "Format it" "My battery is broken" - "Format it" - 14h ago by jokerdino
+    3 through a way too lengthy process called evolution ;) - 1d ago by wisemonkey
+    5 yo dawg, i heard you like sandboxes inside your sandboxes, so i installed a sandbox inside your sandbox so you can sandbox while you sandbox. - apr 15 at 16:02 by lazyPower
+    I am writing this from the "laptop without charge and a battery not present" - 1d ago by Luis Alvarado
+    ... DOESNT MATTER. YOU STILL LOVE US AND OUR SILENCE. YUP. - 1d ago by jrg
+    Why do you think I suggested that to you? :)) - 2d ago by jokerdino
+    6 Amith. Stop deleting all the questions, this is making my witty answers look stupid. :P - apr 13 at 8:22 by jrg
+    5 This is my kind of camping. - apr 13 at 8:25 by jrg
+
+

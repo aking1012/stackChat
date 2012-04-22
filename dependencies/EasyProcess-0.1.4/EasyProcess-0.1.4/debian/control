@@ -1,0 +1,31 @@
+Source: easyprocess
+Maintainer: Andrew King (No comment) <aking1012.com@gmail.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: python-easyprocess
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Easy to use python subprocess interface.
+ EasyProcess is an easy to use python subprocess interface.
+ .
+ Links:
+  * home: https://github.com/ponty/EasyProcess
+  * documentation: http://ponty.github.com/EasyProcess
+ .
+ Features:
+  - layer on top of subprocess_ module
+  - easy to start, stop programs
+  - easy to get standard output/error, return code of programs
+  - command can be list or string
+  - logging
+  - timeout
+  - unit-tests
+  - cross-platform, development on linux
+  - global config file with program aliases 
+  - shell is not supported
+  - pipes are not supported
+  - stdout/stderr is set only after the subprocess has finished
+  - stop() does not kill whole subprocess tree 

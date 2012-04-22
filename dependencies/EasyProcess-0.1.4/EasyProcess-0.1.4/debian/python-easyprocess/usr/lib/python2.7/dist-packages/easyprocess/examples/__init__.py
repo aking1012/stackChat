@@ -1,0 +1,1 @@
+../../../../../share/pyshared/easyprocess/examples/__init__.py

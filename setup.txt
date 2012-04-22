@@ -1,0 +1,10 @@
+#get xvfb
+sudo apt-get install xvfb
+
+#get all the python stuff installed...i made them all handy little debs
+python-selenium
+python-easyprocess
+python-entrypoint2
+python-virtualdisplay
+
+

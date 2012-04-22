@@ -1,0 +1,1 @@
+../../../../../share/pyshared/entrypoint2/examples/hello.py

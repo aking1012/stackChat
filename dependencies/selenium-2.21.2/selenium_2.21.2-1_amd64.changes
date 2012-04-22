@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sun, 22 Apr 2012 03:36:40 -0400
+Source: selenium
+Binary: python-selenium
+Architecture: source all
+Version: 2.21.2-1
+Distribution: precise
+Urgency: low
+Maintainer: Andrew King (No comment) <aking1012.com@gmail.com>
+Changed-By: Andrew King (No comment) <aking1012.com@gmail.com>
+Description: 
+ python-selenium - Python bindings for Selenium
+Changes: 
+ selenium (2.21.2-1) precise; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Checksums-Sha1: 
+ a20834f825b8e341a4c160e36450c6721d7f4c1c 1409 selenium_2.21.2-1.dsc
+ 684bdbe9e07f7b5a70f1f6a8e3ef3b2abed4372e 2546022 selenium_2.21.2.orig.tar.gz
+ fa11ecc4cd443a207253f5ba5bae1f31792f9a79 2061 selenium_2.21.2-1.debian.tar.gz
+ ffc6163f8ec6b61e3b2757bf62e7ff5ec73545ec 2506974 python-selenium_2.21.2-1_all.deb
+Checksums-Sha256: 
+ b09314c66d878a92b42e7dbfba6e04bf7ea9dbba21de9528b0b8a3c1c141c730 1409 selenium_2.21.2-1.dsc
+ cac18c32c1e39e2a3959872dcac5cc0386d6f4f553c6dafb59cbaea8178dc7fc 2546022 selenium_2.21.2.orig.tar.gz
+ 278cfb1994a2621137b4a57280cf1dc02cc273b3960500c08bba046bc8c34873 2061 selenium_2.21.2-1.debian.tar.gz
+ 3a5bf0b2a008201deafab09d32d3d849d2478befe6b6315d21ccfe7e70b02e83 2506974 python-selenium_2.21.2-1_all.deb
+Files: 
+ f99b51771f8a92890c0bcb5034ddaf35 1409 python optional selenium_2.21.2-1.dsc
+ a781b059c325e7981fa65efd9972c961 2546022 python optional selenium_2.21.2.orig.tar.gz
+ df963d4794c9a546404062e2fc0358ca 2061 python optional selenium_2.21.2-1.debian.tar.gz
+ c0143567d8f135178381dbf20281b556 2506974 python optional python-selenium_2.21.2-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJPk9VlAAoJEODCXbnlo0CHrksH/i10PzAL3bdD0rCRUZqp5GHR
+sBw9BQNtmMiu7LjtmgrHJ5ezciAEP9Bcop7Y2+DSaxGfD5R48JYofc5ISHswFBfj
+SUJ3f2gXHuomOqO8+YnIU8jA292eyFCgorcYRZfs1Mnt+UpmtevNvEGYA2qnKK0W
+SVWJ3wKBP2zjZZhUAOVES7vYC11+f0o+jSwMSO7UTwLYcyHwDhBEbrLDoRidNola
+aCcso9uDN51mcJSEX48AKMa95ZgDKfvJkez7EKAwowGfioi9wBBOnx3I3d5MQXYB
+CaiGb2G7YY27IzWbDPT1/2VTZ5YoK6PT4sMc1SGJ3K0CRDCV3Cuqn56eKZ+11zU=
+=0fqc
+-----END PGP SIGNATURE-----

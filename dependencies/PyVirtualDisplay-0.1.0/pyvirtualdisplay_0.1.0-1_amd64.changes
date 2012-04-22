@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sun, 22 Apr 2012 04:57:42 -0400
+Source: pyvirtualdisplay
+Binary: python-pyvirtualdisplay
+Architecture: source all
+Version: 0.1.0-1
+Distribution: precise
+Urgency: low
+Maintainer: Andrew King (No comment) <aking1012.com@gmail.com>
+Changed-By: Andrew King (No comment) <aking1012.com@gmail.com>
+Description: 
+ python-pyvirtualdisplay - python wrapper for Xvfb, Xephyr and Xvnc
+Changes: 
+ pyvirtualdisplay (0.1.0-1) precise; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Checksums-Sha1: 
+ 088b8d6884e544ff348791e814ee5cb913ab1721 1554 pyvirtualdisplay_0.1.0-1.dsc
+ b76864aefbacd86d38360d45a907f3cb35e2e878 1324092 pyvirtualdisplay_0.1.0.orig.tar.gz
+ 34281cbeb24669cacdbaafc0f76058f826542152 5908 pyvirtualdisplay_0.1.0-1.debian.tar.gz
+ 030657821ecc164ee3477454017bb027d09e4ed9 7348 python-pyvirtualdisplay_0.1.0-1_all.deb
+Checksums-Sha256: 
+ aaea106c0716e1e95f18b7c8cdf7a5db4aada60c65c5dc109356c1565a9c72a0 1554 pyvirtualdisplay_0.1.0-1.dsc
+ 7c9d391c80a7bd170f8c7c5e34ac9c651a3447420c469ebc2053fca71e1cfbf6 1324092 pyvirtualdisplay_0.1.0.orig.tar.gz
+ 2b9aaadcdb3b31d0fc4610327c7a9cd5e14383fb06d40f437e10c1298b7b719b 5908 pyvirtualdisplay_0.1.0-1.debian.tar.gz
+ 90b008cef426a3f4592c588ed854c981ca2a6ff88a34eca997d455abadcdaaad 7348 python-pyvirtualdisplay_0.1.0-1_all.deb
+Files: 
+ 6e361309338b571e06bbb16fad7c42f0 1554 python optional pyvirtualdisplay_0.1.0-1.dsc
+ 164a01bd20ff8fcef173cdfd4dc75e20 1324092 python optional pyvirtualdisplay_0.1.0.orig.tar.gz
+ b3adc0ca6e7277459c79609c89b43c94 5908 python optional pyvirtualdisplay_0.1.0-1.debian.tar.gz
+ 54b4ba6894d4d6b02fa513e813338350 7348 python optional python-pyvirtualdisplay_0.1.0-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJPk+gXAAoJEODCXbnlo0CHfm0H/2eApsvP/ZXrZgtzgkba6aK6
+tE2blSIQYNuEdiHREkrArTrvhDwWB5UKnuLWgUyjRCG22OItDF7hKTt0iPBA3yuz
+aJTsTdLWNKRycrbOH+xVwvB1f2qyH5DhvHVpLjXSzIftVcJNhUc283VniFUkuK+x
+Tei3a9OJqv7HQttXbIhRu9GhgPhZd75KaMuwPqlMzQONgilpya/77+Tb37gAzaDu
+3Tff+yK/4X5AEoLx0i+EBkw5AJE4N/11jxTOAX8GXFHoLr4VP14rxa+QGgZZp97g
++Nadz32cZucjqXM0NwYZ+lgLLYevJ5lSES72ugLuYlAPATY77MkFS5NRuU99SB8=
+=IyeC
+-----END PGP SIGNATURE-----

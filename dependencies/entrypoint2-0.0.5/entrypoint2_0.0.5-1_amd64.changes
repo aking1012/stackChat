@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sun, 22 Apr 2012 04:45:15 -0400
+Source: entrypoint2
+Binary: python-entrypoint2
+Architecture: source all
+Version: 0.0.5-1
+Distribution: precise
+Urgency: low
+Maintainer: Andrew King (No comment) <aking1012.com@gmail.com>
+Changed-By: Andrew King (No comment) <aking1012.com@gmail.com>
+Description: 
+ python-entrypoint2 - easy to use command-line interface for python modules, fork
+Changes: 
+ entrypoint2 (0.0.5-1) precise; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Checksums-Sha1: 
+ 65b7231839676cd10364f8c11ce33cddb713a39a 1454 entrypoint2_0.0.5-1.dsc
+ a57584cfda2f9be4d3db9844205b000292238a71 16077 entrypoint2_0.0.5.orig.tar.gz
+ ef994625b15d315065280eda984977003638a7f6 8537 entrypoint2_0.0.5-1.debian.tar.gz
+ 31241d8c75455dc82a84ad8dcf0d59cbaaccd556 11110 python-entrypoint2_0.0.5-1_all.deb
+Checksums-Sha256: 
+ f8baf150cd7b641ad7e9802f14b97f0aa13931ebf619e5ba86fb322a797da1b0 1454 entrypoint2_0.0.5-1.dsc
+ be814fd566d931907b71611f124003677ad4fdf5c510f81f409880da0e908def 16077 entrypoint2_0.0.5.orig.tar.gz
+ 132a1a0b90e14f4d5d614a770d8f776ab7f053c05b1932fca105b729798f3fc0 8537 entrypoint2_0.0.5-1.debian.tar.gz
+ 222735baf1223aad7accfe356ce5cad2aeca59127f3a034b1cc37739c477c810 11110 python-entrypoint2_0.0.5-1_all.deb
+Files: 
+ 6dbf03c08c6de4ee320e556d35490409 1454 python optional entrypoint2_0.0.5-1.dsc
+ be4e47e32d35fb525a4b7beb6a506051 16077 python optional entrypoint2_0.0.5.orig.tar.gz
+ 979d48e4ae6ac821d7dfe2fc9f210071 8537 python optional entrypoint2_0.0.5-1.debian.tar.gz
+ 4f11d5da8d81ae25ebfecbd4054dbf43 11110 python optional python-entrypoint2_0.0.5-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJPk+dpAAoJEODCXbnlo0CHHJoIALeMjkdAt+Dt1nf2+YnpZ1br
+k1XyB9uY68bjsKorx+hPE9fPWO3efS/VNwt0Qu2B0BI+nKVNjjcAvWwmmwhntlAl
+KR8y2/QGrqsAmTOfJSq0tZV1N8rlpM4HDNc+AFc8VQ0hk1f48Y8glePfieSd8Ypj
+VGc6bnBHNypDwEQW8/rXPjgVYeffiaVtsA1jzw1bszQWIgxw9ir3skwD3R5YRRIG
+fwnCGDcH82rEa45w6aAUDn+2csu2N1MsDfnIOa4f6GMKhFARB8uX/HvGqcLbMqjy
+XY4+8p+lkBEdD+pWncBKAY2hrah3PKayIg2wyuBsgsIEervCKe3qXKoO1KTO0To=
+=dXt5
+-----END PGP SIGNATURE-----

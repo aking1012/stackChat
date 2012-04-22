@@ -1,0 +1,31 @@
+Source: selenium
+Maintainer: Andrew King (No comment) <aking1012.com@gmail.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: python-selenium
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Python bindings for Selenium
+ ============
+ Introduction
+ ============
+ .
+ :Author: David Burns
+ .
+ Selenium Python Client Driver is a Python language binding for Selenium Remote
+ Control (version 1.0 and 2.0).
+ .
+ Currently the remote protocol, Firefox and Chrome for Selenium 2.0 are
+ supported, as well as the Selenium 1.0 bindings. As work will progresses we'll
+ add more "native" drivers.
+ .
+ See here_ for more information.
+ .
+ .. _here: http://code.google.com/p/selenium/
+ .
+ Installing
+ ==========
+ .

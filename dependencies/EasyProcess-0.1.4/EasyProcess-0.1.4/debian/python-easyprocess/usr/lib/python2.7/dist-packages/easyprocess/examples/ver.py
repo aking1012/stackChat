@@ -1,0 +1,1 @@
+../../../../../share/pyshared/easyprocess/examples/ver.py

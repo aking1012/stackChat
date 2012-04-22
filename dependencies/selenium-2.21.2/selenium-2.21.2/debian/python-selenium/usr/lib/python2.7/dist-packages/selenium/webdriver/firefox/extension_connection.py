@@ -1,0 +1,1 @@
+../../../../../../share/pyshared/selenium/webdriver/firefox/extension_connection.py
